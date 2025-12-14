@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ShadesMC](https://discord.gg/UvVwBzEds7)
 
-- My PortFolio [https://valley-dev.vercel.app/](https://valley-dev.vercel.app/)
+- My PortFolio https://valley-dev.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
