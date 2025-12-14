@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valley-dev&label=Profile%20views&color=0e75b6&style=flat" alt="valley-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valley-dev" alt="valley-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/Valley-dev"><img src="https://github-profile-trophy.vercel.app/?username=valley-dev" alt="valley-dev" /></a> </p>
 
 - 🔭 I’m currently working on [ShadesMC](https://discord.gg/UvVwBzEds7)
 
-- My PortFolio https://valley-dev.vercel.app/
+- My PortFolio [https://valley-dev.vercel.app/](https://valley-dev.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
