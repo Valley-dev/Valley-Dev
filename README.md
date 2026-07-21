@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#00BFFF;">Valley</span> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=valley-dev&label=Profile%20views&color=0e75b6&style=flat" alt="valley-dev" />
+  <img src="https://komarev.com/ghpvc/?username=Valley-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Valley-dev" />
   <img src="https://img.shields.io/badge/Age-16-blueviolet?style=flat" alt="age" />
   <img src="https://img.shields.io/badge/Location-Italy-brightgreen?style=flat" alt="location" />
 </p>
@@ -46,10 +46,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valley-dev&show_icons=true&locale=en&theme=default" alt="stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valley-dev&show_icons=true&locale=en&layout=compact" alt="top-langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valley-dev&show_icons=true&locale=en&theme=default&count_private=true" alt="stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valley-dev&show_icons=true&locale=en&layout=compact" alt="top-langs" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valley-dev" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=Valley-dev" alt="streak" />
 </p>
