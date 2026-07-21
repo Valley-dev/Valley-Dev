@@ -43,13 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valley-dev&show_icons=true&locale=en&theme=default&count_private=true" alt="stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valley-dev&show_icons=true&locale=en&layout=compact" alt="top-langs" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Valley-dev" alt="streak" />
 </p>
