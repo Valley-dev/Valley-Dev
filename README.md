@@ -21,7 +21,7 @@
 ### 🔭 What I'm working on
 
 - Currently building **[CoralMC](https://coralmc.it)**
-- 🎨 Portfolio: [valley-dev.vercel.app](https://valley-dev.vercel.app/)
+- 🎨 Portfolio: [valley-dev.vercel.app](https://valley02.vercel.app/)
 
 ---
 
