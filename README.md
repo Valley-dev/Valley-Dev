@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🌍 Check out my portfolio: <a href="https://valley-dev.vercel.app/"><b>valley-dev.vercel.app</b></a>
+  🌍 Check out my portfolio: <a href="https://valley02.vercel.app/"><b>Portfoglio</b></a>
 </p>
 
 ---
