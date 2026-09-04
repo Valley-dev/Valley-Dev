@@ -20,7 +20,6 @@
 
 ### 🔭 What I'm working on
 
-- Currently building **[CoralMC](https://coralmc.it)**
 - 🎨 Portfolio: [valley-dev.vercel.app](https://valley02.vercel.app/)
 
 ---
