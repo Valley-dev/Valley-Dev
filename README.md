@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🚀 16-year-old developer from <b>Italy</b> with 3 years of experience building software and web projects.<br/>
+  🚀 17-year-old developer from <b>Italy</b> with 3 years of experience building software and web projects.<br/>
   💻 Passionate about <b>backend development</b>, <b>Minecraft servers</b>, and <b>web development</b>.<br/>
   🎓 Currently in high school, spending my free time on personal projects, Minecraft servers, and experimenting with new tools, frameworks, and Linux setups.
 </p>
